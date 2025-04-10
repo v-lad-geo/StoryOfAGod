@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Github-repo\\StoryOfAGod\\Source\\StoryOfAGod\\StoryOfAGod.Build.cs",
+		"D:\\Github-repo\\StoryOfAGod\\Source\\StoryOfAGod.Target.cs",
+		"D:\\Github-repo\\StoryOfAGod\\Source\\StoryOfAGodEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github-repo\\storyofagod\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\storyofagod\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github-repo\\storyofagod\\intermediate\\build\\win64\\x64\\storyofagodeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github-repo\\storyofagod\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\storyofagod\\definitions.storyofagod.h",
+            "d:\\program files (x86)\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
