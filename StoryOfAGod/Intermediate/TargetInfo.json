@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "StoryOfAGod",
+			"Path": "..\\Source\\StoryOfAGod.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "StoryOfAGodEditor",
+			"Path": "..\\Source\\StoryOfAGodEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

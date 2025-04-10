@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\StoryOfAGod.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StoryOfAGod.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\StoryOfAGodEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\StoryOfAGod">
+      <UniqueIdentifier>{A1EA2A4F-BA60-3043-A731-CEA8D50B0A4C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StoryOfAGod\StoryOfAGod.Build.cs">
+      <Filter>Source\StoryOfAGod</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\StoryOfAGod\StoryOfAGod.cpp">
+      <Filter>Source\StoryOfAGod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\StoryOfAGod\StoryOfAGod.h">
+      <Filter>Source\StoryOfAGod</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
